@@ -69,7 +69,7 @@ public class test00001 {
 				System.out.println("i=" + i);
 			}
 		}
-		System.out.println("master edit test");
+		System.out.println("master merge dev1 test");
 
 	}
 
